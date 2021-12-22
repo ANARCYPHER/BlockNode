@@ -232,9 +232,7 @@ Response:
 1
 ```
 
-## Author
 
-Bernardino Todolí López - [Taula Consulting](http://www.taula-consulting.com/en/)
 
 ## License
 
